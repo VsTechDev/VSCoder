@@ -3,6 +3,19 @@
     "displayName": "VSCoder",
     "description": "",
     "version": "0.0.1",
+    "publisher": "vineelsai",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vineelsai26/vscoder"
+    },
+    "keywords": [
+        "vscoder",
+        "theme",
+        "vscode",
+        "coder",
+        "light",
+        "dark"
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },
