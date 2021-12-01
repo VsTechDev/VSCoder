@@ -1,9 +1,16 @@
 {
     "name": "vscoder",
     "displayName": "VSCoder",
-    "description": "",
-    "version": "0.0.1",
+    "description": "VSCoder theme for Visual Studio Code",
+    "version": "0.3.0",
+    "preview": true,
     "publisher": "vineelsai",
+    "license": "MIT",
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#1b1f23",
+        "theme": "dark"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/vineelsai26/vscoder"
@@ -27,12 +34,12 @@
             {
                 "label": "VSCoder Light",
                 "uiTheme": "vs",
-                "path": "./themes/VSCoder-light-theme.json"
+                "path": "./themes/light-theme.json"
             },
             {
                 "label": "VSCoder Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/VSCoder-dark-theme.json"
+                "path": "./themes/dark-theme.json"
             }
         ]
     }

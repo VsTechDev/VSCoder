@@ -1,5 +1,3 @@
-# README
+# VSCoder
 
-## This is the README for your theme "vscoder"
-
-Download the theme and apply in the color themes section
+Download the [theme](https://marketplace.visualstudio.com/items?itemName=vineelsai.vscoder) and apply in the color themes section

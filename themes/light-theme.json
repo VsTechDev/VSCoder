@@ -150,9 +150,7 @@
 		"editor.stackFrameHighlightBackground": "#ffd33d33",
 		"editor.focusedStackFrameHighlightBackground": "#28a74525",
 		"settings.headerForeground": "#2f363d",
-		"settings.modifiedItemIndicator": "#2188ff",
-		"welcomePage.buttonBackground": "#f6f8fa",
-		"welcomePage.buttonHoverBackground": "#e1e4e8"
+		"settings.modifiedItemIndicator": "#2188ff"
 	},
 	"semanticHighlighting": true,
 	"tokenColors": [
